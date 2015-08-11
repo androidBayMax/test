@@ -27,6 +27,8 @@ public class MainActivity extends Activity {
         getMenuInflater().inflate(R.menu.menu_main, menu);
         getSystemService(NOTIFICATION_SERVICE);
 
+
+
         return true;
 
     }
